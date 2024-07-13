@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662006405635",
+    "project_id": "jupiter-test-796b1",
+    "storage_bucket": "jupiter-test-796b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662006405635:android:a37eb6fe68ba9b79ea0c36",
+        "android_client_info": {
+          "package_name": "com.example.jupiter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE8IavGqJWYDTC7gik9PzFZGOxdmJB2v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
